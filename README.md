@@ -1,0 +1,1 @@
+The project covers end to end implementation of machine learning model including development and deployment. Starting with fundamental machine learning concepts, the pickle file has been used to make predictions and the model is deployed as a web app on Streamlit from github. The version controlling and file handling has been done using git and github actions.
